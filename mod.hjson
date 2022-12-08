@@ -25,5 +25,5 @@ description:
   some turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!
   '''
 version: 1.09
-minGameVersion: 126
+minGameVersion: 140
 repo: Fresh791/mindustry-extended
