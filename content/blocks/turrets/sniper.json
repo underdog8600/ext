@@ -3,7 +3,7 @@
   "name": "Sniper",
   "description": "A long range, high damage, piercing turret.",
   "targetGround": true,
-  "targetAir": false,
+  "targetAir": true,
   "health": 1000000,
   "size": 3,
   "inaccuracy": 0,
