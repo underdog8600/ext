@@ -1,0 +1,41 @@
+{
+  "type": "ItemTurret",
+  "name": "Sniper",
+  "description": "A long range, high damage, piercing turret.",
+  "targetGround": true,
+  "targetAir": false,
+  "health": 1200,
+  "size": 3,
+  "inaccuracy": 0,
+  "reloadTime": 400,
+  "recoilAmount": 1,
+  "ammoUseEffect": "casing3",
+  "shootCone": 25,
+  "maxAmmo": 50,
+  "rotateSpeed": 8,
+  "range": 500,
+  "ammoTypes": {
+    "silicon": {
+      "speed": 25,
+      "collidesTiles": false,
+      "damage": 300,
+      "splashDamage": 10,
+      "collidesTeam": false,
+      "pierce": true,
+      "collidesAir": false,
+      "splashDamageRadius": 12,
+      "ammoMultiplier": 5,
+      "width": 8,
+      "height": 12
+    }
+  },
+  "requirements": [
+    {
+      "item": "silicon",
+      "amount": 1
+    }
+  ],
+  "category": "turret",
+  "research": "hail",
+  "buildVisibility": "shown"
+}
