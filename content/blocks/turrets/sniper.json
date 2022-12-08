@@ -29,5 +29,6 @@
     }
   ],
   "category": "turret",
+  "research": "breach",
   "buildVisibility": "shown"
 }
