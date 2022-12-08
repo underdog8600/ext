@@ -14,7 +14,7 @@
   "maxAmmo": 50,
   "rotateSpeed": 8,
   "range": 5000,
-  "ammoTypes": {
+  "ammo": {
     "silicon": {
       "speed": 25,
       "collidesTiles": false,
