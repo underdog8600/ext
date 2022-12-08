@@ -28,5 +28,6 @@
       "amount": 1
     }
   ],
-  "category": "turret"
+  "category": "turret",
+  "buildVisibility": "shown"
 }
