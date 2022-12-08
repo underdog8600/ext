@@ -35,7 +35,5 @@
       "amount": 1
     }
   ],
-  "category": "turret",
-  "research": "hail",
-  "buildVisibility": "shown"
+  "category": "turret"
 }
