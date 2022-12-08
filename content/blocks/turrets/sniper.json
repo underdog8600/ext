@@ -16,13 +16,8 @@
   "ammo": {
     "silicon": {
       "speed": 25,
-      "collidesTiles": false,
       "damage": 10000,
-      "splashDamage": 1000,
-      "collidesTeam": false,
       "pierce": true,
-      "splashDamageRadius": 12,
-      "ammoMultiplier": 5,
       "width": 8,
       "height": 12
     }
