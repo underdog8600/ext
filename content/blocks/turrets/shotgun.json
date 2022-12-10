@@ -1,6 +1,6 @@
 {
   "type": "ItemTurret",
-  "name": "Gattling",
+  "name": "Shotgun",
   "description": "A long range, high damage, piercing turret.",
   "targetGround": true,
   "targetAir": true,
